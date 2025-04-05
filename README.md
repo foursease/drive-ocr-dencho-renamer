@@ -1,0 +1,2 @@
+# drive-ocr-dencho-renamer
+Googleドライブの画像認識OCRを活用して、ファイル名を電子帳簿保存法のファイル名規則になるように対応
